@@ -13,10 +13,14 @@ label {
   
 }
 
-nav ul li a
+nav ul li a{
+  float: right;
+
+}
 
 /* nav ul li  a:hover {
 background: #c2c2c2;
 display: block;
 width: 200px;
 } */
+
