@@ -56,3 +56,7 @@ a {
 a:hover{
     color: white;
 }
+
+nav img{
+    width: 100px;
+}
