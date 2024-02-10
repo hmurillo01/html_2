@@ -28,35 +28,3 @@
     display: block;
 }
 
-nav {
-display: flex;
-align-items: center;
-justify-content: space-between;
-padding-top: 20px;
-padding-left: 5px;
-padding-right: 5px;
-font-weight: bold;
-
-}
-
-h1 {
-color: white;
-font-size: 45px;
-}
-
-ul li {
-    display: inline-block;
-    padding: 0px 20px;
-}
-
-a {
-    color: rgb(14, 14, 14);
-    text-decoration: none;
-}
-a:hover{
-    color: white;
-}
-
-nav img{
-    width: 100px;
-}
